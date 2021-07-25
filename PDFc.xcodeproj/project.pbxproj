@@ -13,6 +13,17 @@
 		220AFECF26A9F4E000F936A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 220AFECE26A9F4E000F936A6 /* Preview Assets.xcassets */; };
 		220AFEDB26A9F4E000F936A6 /* PDFcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220AFEDA26A9F4E000F936A6 /* PDFcTests.swift */; };
 		220AFEE626A9F4E000F936A6 /* PDFcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220AFEE526A9F4E000F936A6 /* PDFcUITests.swift */; };
+		220AFF1026AB65FB00F936A6 /* Units.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220AFF0F26AB65FB00F936A6 /* Units.swift */; };
+		220AFF1A26AB6C8C00F936A6 /* 150 DPI Low Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1126AB6C8C00F936A6 /* 150 DPI Low Quality.qfilter */; };
+		220AFF1B26AB6C8C00F936A6 /* 110 DPI Average Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1226AB6C8C00F936A6 /* 110 DPI Average Quality.qfilter */; };
+		220AFF1C26AB6C8C00F936A6 /* 150 DPI Average Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1326AB6C8C00F936A6 /* 150 DPI Average Quality.qfilter */; };
+		220AFF1D26AB6C8C00F936A6 /* 300 DPI Average Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1426AB6C8C00F936A6 /* 300 DPI Average Quality.qfilter */; };
+		220AFF1E26AB6C8C00F936A6 /* 75 DPI Low Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1526AB6C8C00F936A6 /* 75 DPI Low Quality.qfilter */; };
+		220AFF1F26AB6C8C00F936A6 /* 75 DPI Average Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1626AB6C8C00F936A6 /* 75 DPI Average Quality.qfilter */; };
+		220AFF2026AB6C8C00F936A6 /* 600 DPI Average Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1726AB6C8C00F936A6 /* 600 DPI Average Quality.qfilter */; };
+		220AFF2126AB6C8C00F936A6 /* 300 DPI Low Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1826AB6C8C00F936A6 /* 300 DPI Low Quality.qfilter */; };
+		220AFF2226AB6C8C00F936A6 /* 600 DPI Low Quality.qfilter in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF1926AB6C8C00F936A6 /* 600 DPI Low Quality.qfilter */; };
+		220AFF6026AB988300F936A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 220AFF5E26AB988300F936A6 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +57,17 @@
 		220AFEE126A9F4E000F936A6 /* PDFcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PDFcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		220AFEE526A9F4E000F936A6 /* PDFcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFcUITests.swift; sourceTree = "<group>"; };
 		220AFEE726A9F4E000F936A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		220AFF0F26AB65FB00F936A6 /* Units.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Units.swift; sourceTree = "<group>"; };
+		220AFF1126AB6C8C00F936A6 /* 150 DPI Low Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "150 DPI Low Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1226AB6C8C00F936A6 /* 110 DPI Average Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "110 DPI Average Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1326AB6C8C00F936A6 /* 150 DPI Average Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "150 DPI Average Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1426AB6C8C00F936A6 /* 300 DPI Average Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "300 DPI Average Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1526AB6C8C00F936A6 /* 75 DPI Low Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "75 DPI Low Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1626AB6C8C00F936A6 /* 75 DPI Average Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "75 DPI Average Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1726AB6C8C00F936A6 /* 600 DPI Average Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "600 DPI Average Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1826AB6C8C00F936A6 /* 300 DPI Low Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "300 DPI Low Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF1926AB6C8C00F936A6 /* 600 DPI Low Quality.qfilter */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "600 DPI Low Quality.qfilter"; sourceTree = "<group>"; };
+		220AFF5F26AB988300F936A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,9 +118,12 @@
 		220AFEC626A9F4DF00F936A6 /* PDFc */ = {
 			isa = PBXGroup;
 			children = (
+				220AFEF326AB35EF00F936A6 /* Resources */,
 				220AFEC726A9F4DF00F936A6 /* PDFcApp.swift */,
 				220AFEC926A9F4DF00F936A6 /* ContentView.swift */,
+				220AFF0F26AB65FB00F936A6 /* Units.swift */,
 				220AFECB26A9F4E000F936A6 /* Assets.xcassets */,
+				220AFF5E26AB988300F936A6 /* Main.storyboard */,
 				220AFED026A9F4E000F936A6 /* Info.plist */,
 				220AFED126A9F4E000F936A6 /* PDFc.entitlements */,
 				220AFECD26A9F4E000F936A6 /* Preview Content */,
@@ -130,6 +155,30 @@
 				220AFEE726A9F4E000F936A6 /* Info.plist */,
 			);
 			path = PDFcUITests;
+			sourceTree = "<group>";
+		};
+		220AFEF326AB35EF00F936A6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				220AFEF426AB35FE00F936A6 /* Filters */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		220AFEF426AB35FE00F936A6 /* Filters */ = {
+			isa = PBXGroup;
+			children = (
+				220AFF1626AB6C8C00F936A6 /* 75 DPI Average Quality.qfilter */,
+				220AFF1526AB6C8C00F936A6 /* 75 DPI Low Quality.qfilter */,
+				220AFF1226AB6C8C00F936A6 /* 110 DPI Average Quality.qfilter */,
+				220AFF1326AB6C8C00F936A6 /* 150 DPI Average Quality.qfilter */,
+				220AFF1126AB6C8C00F936A6 /* 150 DPI Low Quality.qfilter */,
+				220AFF1426AB6C8C00F936A6 /* 300 DPI Average Quality.qfilter */,
+				220AFF1826AB6C8C00F936A6 /* 300 DPI Low Quality.qfilter */,
+				220AFF1726AB6C8C00F936A6 /* 600 DPI Average Quality.qfilter */,
+				220AFF1926AB6C8C00F936A6 /* 600 DPI Low Quality.qfilter */,
+			);
+			path = Filters;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,8 +284,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				220AFF1F26AB6C8C00F936A6 /* 75 DPI Average Quality.qfilter in Resources */,
+				220AFF1C26AB6C8C00F936A6 /* 150 DPI Average Quality.qfilter in Resources */,
 				220AFECF26A9F4E000F936A6 /* Preview Assets.xcassets in Resources */,
+				220AFF6026AB988300F936A6 /* Main.storyboard in Resources */,
+				220AFF1E26AB6C8C00F936A6 /* 75 DPI Low Quality.qfilter in Resources */,
+				220AFF1A26AB6C8C00F936A6 /* 150 DPI Low Quality.qfilter in Resources */,
+				220AFF2026AB6C8C00F936A6 /* 600 DPI Average Quality.qfilter in Resources */,
 				220AFECC26A9F4E000F936A6 /* Assets.xcassets in Resources */,
+				220AFF2126AB6C8C00F936A6 /* 300 DPI Low Quality.qfilter in Resources */,
+				220AFF1D26AB6C8C00F936A6 /* 300 DPI Average Quality.qfilter in Resources */,
+				220AFF1B26AB6C8C00F936A6 /* 110 DPI Average Quality.qfilter in Resources */,
+				220AFF2226AB6C8C00F936A6 /* 600 DPI Low Quality.qfilter in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,6 +321,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				220AFECA26A9F4DF00F936A6 /* ContentView.swift in Sources */,
+				220AFF1026AB65FB00F936A6 /* Units.swift in Sources */,
 				220AFEC826A9F4DF00F936A6 /* PDFcApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -296,6 +356,17 @@
 			targetProxy = 220AFEE226A9F4E000F936A6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		220AFF5E26AB988300F936A6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				220AFF5F26AB988300F936A6 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		220AFEE826A9F4E000F936A6 /* Debug */ = {
@@ -430,7 +501,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = ca.imsam.PDFc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -454,7 +525,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = ca.imsam.PDFc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
